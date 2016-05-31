@@ -3,6 +3,8 @@ A classic very simple typing game :D lets see how good you are with keyboard :D 
 
 i just included the source here as it would be easier for those who wana have a look.
 
+https://riazxrazor-graphics.herokuapp.com/letterblast.html
+
 ### Source code
 ```
 <!DOCTYPE html>
